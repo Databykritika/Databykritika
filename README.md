@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Kritika
+Data Analyst| Python Developer  
 Python
 Docker
 SQL
