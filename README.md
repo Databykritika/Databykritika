@@ -14,10 +14,7 @@
 
 I'm a Physics graduate and Data Analyst with experience in data analysis, reporting, and technical project work. I enjoy making prototypes and  turning structured data into clear insights that support better decisions.
 
-- Currently working as a **Data Analyst at Alethe Labs**
-- Background in research, quality control, and technical documentation
-- Interested in business intelligence, dashboard development, and data-driven problem-solving
-- Based in Haryana, India
+
 
 ## What I Work With
 
@@ -34,7 +31,7 @@ I'm a Physics graduate and Data Analyst with experience in data analysis, report
 
 
 ## What I'm currently working
-Making a realtime prototype for a complex pipeline of water that detect leakage in the pipeline, with the help of physics concept and formulas.
+- Making a realtime prototype for a complex pipeline of water that detect leakage in the pipeline, with the help of physics concept and formulas.
 
 
 ## highlights
@@ -44,8 +41,11 @@ Making a realtime prototype for a complex pipeline of water that detect leakage 
 
 I'm interested in connecting with data analysts, BI professionals, teams working on meaningful analytics projects and everyone who love to code and make things interesting.
 
+## open to collaborate on
+- Open source
+- Realtime Prototype 
+  
 - **LinkedIn:** [kritika-jangraofficial](https://www.linkedin.com/in/kritika-jangraofficial/)
-- **GitHub:** [Databykritika](https://github.com/Databykritika)
 - **Email:** [kritika.jangra1313@gmail.com](mailto:kritika.jangra1313@gmail.com)
 
 ---
